@@ -2,13 +2,13 @@
 
 class HelloGit{
   
-    void hellogit(){
+    static void hellogit(){
               system.out.println("Hello Git..!!")
   
     public static void main(String[] args){
 
            Hellogit obj = new Hellogit();
-           obj.Hellogit;
+           HelloGit.hellogit;
 
        }
 
