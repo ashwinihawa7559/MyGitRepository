@@ -11,4 +11,9 @@ class HelloGit{
            obj.Hellogit;
 
        }
+
+          void myBigMethod(){
+                    
+                   Sysout("has a method impl");
+}
 }
